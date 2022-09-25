@@ -83,6 +83,20 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "",
+      "description": "Hideous spectral fainted cat accursed. Tentacles comprehension unutterable singular hideous effulgence. Iridescence cyclopean fainted squamous eldritch swarthy lurk. Charnel indescribable decadent hideous spectral unnamable loathsome. Hideous tenebrous daemoniac indescribable.",
+      "category": "kdm",
+      "amount": "8339",
+      "id": 13
+    },
+    {
+      "date": "2022-09-29",
+      "description": "food",
+      "category": "chips",
+      "amount": "100",
+      "id": 14
     }
   ]
 }
